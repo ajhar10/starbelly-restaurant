@@ -20,6 +20,7 @@ import award03 from "../assets/award03.png";
 import award05 from "../assets/award05.png";
 import sign from "../assets/sign.png";
 import quote from "../assets/quote.png";
+import logo2 from "../assets/logo (2).png";
 import gericht from "../assets/gericht.png";
 
 export default {
@@ -46,4 +47,5 @@ export default {
   sign,
   quote,
   gericht,
+  logo2,
 };
